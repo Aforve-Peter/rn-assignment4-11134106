@@ -1,11 +1,6 @@
-# Sample Snack app
+This project involves creating a mobile application based on a provided UI mockup. The application includes a login screen where users input their name and email, which are then displayed on the home screen. The home screen features sections for popular and featured job cards, each displaying at least 8 cards. The job cards are designed as functional components that accept props for card details, rendering job information like job title, company name, and description. The application is styled to match the UI design closely, using custom components throughout for consistency and reusability. Each development task is committed separately for clear tracking. For submission, delete the node_modules directory, compress the repository, and submit it to Sakai. Access the UI design and resources from the provided Figma file, and include screenshots of the login screen, home screen, and job sections in the README.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
